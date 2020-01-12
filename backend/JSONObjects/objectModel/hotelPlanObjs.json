@@ -1,0 +1,65 @@
+[
+    {
+        "id_destination": "1",
+        "url": "imgN_1",
+        "destination": "Noruega",
+        "type": "Sencilla",
+        "price": "100"
+    },
+    {
+        "id_destination": "1",
+        "url": "imgN_2",
+        "destination": "Noruega",
+        "type": "Doble",
+        "price": "200"
+    },
+    {
+        "id_destination": "1",
+        "url": "imgN_3",
+        "destination": "Noruega",
+        "type": "Suite",
+        "price": "300"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_1",
+        "destination": "Islas Feroe",
+        "type": "Suite",
+        "price": "300"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_2",
+        "destination": "Islas Feroe",
+        "type": "Doble",
+        "price": "300"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_3",
+        "destination": "Islas Feroe",
+        "type": "Sencilla",
+        "price": "300"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_1",
+        "destination": "Finlandia",
+        "type": "Sencilla",
+        "price": "300"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_2",
+        "destination": "Finlandia",
+        "type": "Doble",
+        "price": "300"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_3",
+        "destination": "Finlandia",
+        "type": "Suite",
+        "price": "300"
+    }
+]

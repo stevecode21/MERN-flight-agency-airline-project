@@ -1,0 +1,124 @@
+{
+    "id": "10",
+    "name": "Finlandia",
+    "miles": "6,250",
+    "url": " ",
+    "kilometers": "10, 058 KM",
+    "duration": "10 Horas 50 minutos",
+    "aiport": "Aeropuerto de Helsinki-Vantaa",
+    "timeDifference": "+8horas",
+    "touristPlans": [
+        {
+            "name": "Tarjeta de Helsinki",
+            "url": " ",
+            "duration": null,
+            "price": "182.677",
+            "quotes": "x persona",
+            "description": null
+        },
+        {
+            "name": "Helsinki en kayak",
+            "url": " ",
+            "duration": null,
+            "price": "290.792",
+            "quotes": "x persona",
+            "description": null
+        },
+        {
+            "name": "Nuuksio Canoa y Caminata Aventura",
+            "url": " ",
+            "duration": null,
+            "price": "290.792",
+            "quotes": "pareja",
+            "description": null
+        },
+        {
+            "name": "Hielo flotando en Forest Lake con Aurora Borealis",
+            "url": " ",
+            "duration": null,
+            "price": "328.073",
+            "quotes": "pareja",
+            "description": null
+        },
+        {
+            "name": "Visita el Arctic Snow Hotel",
+            "url": " ",
+            "duration": null,
+            "price": "369.082",
+            "quotes": "pareja",
+            "description": null
+        },
+        {
+            "name": "Safari de renos en Laponia desde Rovaniemi",
+            "url": " ",
+            "duration": null,
+            "price": "466.013",
+            "quotes": "4 personas",
+            "description": null
+        },
+        {
+            "name": "Tour privado al zoológico de Rovaniemi",
+            "url": " ",
+            "duration": null,
+            "price": "369.082",
+            "quotes": "pareja",
+            "description": "El mejor tour privado al zoológico con oso polar desde Rovaniemi"
+        },
+        {
+            "name": "Cascadas de hielo de Korouoma y senderismo en el parque nacional",
+            "url": " ",
+            "duration": null,
+            "price": "667.330",
+            "quotes": "pareja",
+            "description": "Disponible solo en invierno"
+        },
+        {
+            "name": "Excursion al pueblo de santa claus",
+            "url": " ",
+            "duration": null,
+            "price": "242.327",
+            "quotes": "persona + niño",
+            "description": "Disponible solo en invierno"
+        },
+        {
+            "name": "Moto de nieve Northern Lights Safari de conducción",
+            "url": " ",
+            "duration": null,
+            "price": "592.768",
+            "quotes": "pareja",
+            "description": "Disponible solo en invierno"
+        }
+    ],
+    "flightPrice": [
+        {
+            "class": "primera",
+            "price": "34.407.944"
+        },
+        {
+            "class": "ejecutivo",
+            "price": "10.323.685"
+        },
+        {
+            "class": "economica",
+            "price": "8.274.150"
+        },
+        {
+            "class": "turista",
+            "price": "4.838.083"
+        }
+    ],
+    "hotelPrice": [
+        {
+            "type": "gold",
+            "price": "444"
+        },
+        {
+            "type": "silver",
+            "price": "443"
+        },
+        {
+            "type": "bronze",
+            "price": "442"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id_destination": "1",
+        "url": "imgN_1",
+        "destination": "Noruega",
+        "plan": "primera",
+        "price": "34467844"
+    },
+    {
+        "id_destination": "1",
+        "url": "imgN_2",
+        "destination": "Noruega",
+        "plan": "ejecutico",
+        "price": "10323685"
+    },
+    {
+        "id_destination": "1",
+        "url": "imgN_3",
+        "destination": "Noruega",
+        "plan": "económico",
+        "price": "8274150"
+    },
+    {
+        "id_destination": "1",
+        "url": "imgN_4",
+        "destination": "Noruega",
+        "plan": "turista",
+        "price": "4838083"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_1",
+        "destination": "Islas Feroe",
+        "plan": "primera",
+        "price": "68090320"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_2",
+        "destination": "Islas Feroe",
+        "plan": "ejecutico",
+        "price": "11210082"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_3",
+        "destination": "Islas Feroe",
+        "plan": "económico",
+        "price": "5658190"
+    },
+    {
+        "id_destination": "2",
+        "url": "imgI_4",
+        "destination": "Islas Feroe",
+        "plan": "turista",
+        "price": "4258090"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_1",
+        "destination": "Finlandia",
+        "plan": "primera",
+        "price": "34.407.944"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_2",
+        "destination": "Finlandia",
+        "plan": "ejecutivo",
+        "price": "10.323.685"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_3",
+        "destination": "Finlandia",
+        "plan": "economica",
+        "price": "8.274.150"
+    },
+    {
+        "id_destination": "3",
+        "url": "imgF_4",
+        "destination": "Finlandia",
+        "plan": "turista",
+        "price": "4.838.083"
+    }
+]

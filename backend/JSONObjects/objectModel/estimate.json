@@ -1,0 +1,41 @@
+[
+    {
+        "destination":"Finlandia",
+        "flightClass":"Turista",
+        "flightPrice":4838083,
+        "hotelPlan":"Suite",
+        "hotelPrice":300,
+        "flight_id":"cx022",
+        "exta":3000000,
+        "departureDate":"12/13/2019",
+        "returnDate":"01/09/2020",
+        "totalTuristPlan":835095,
+        "total":8673478,
+        "user": {
+            "name": "pepe"
+        },
+        "turistPlan": [
+            {
+                "id_destination": "3",
+                "url": "imgF_9 ",
+                "destination": "Finlandia",
+                "name": "Excursion al pueblo de santa claus",
+                "duration": null,
+                "price": 242327,
+                "quotes": "persona + niño",
+                "description": "Disponible solo en invierno"
+            },
+            {
+                "id_destination": "3",
+                "destination": "Finlandia",
+                "name": "Moto de nieve Northern Lights Safari de conducción",
+                "url": "imgF_10",
+                "duration": null,
+                "price": 592768,
+                "quotes": "pareja",
+                "description": "Disponible solo en invierno"
+            }
+        ]
+
+    }
+]

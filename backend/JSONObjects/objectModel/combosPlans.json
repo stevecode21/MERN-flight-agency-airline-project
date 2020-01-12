@@ -1,0 +1,34 @@
+[
+    {
+        "destination":"Noruega",
+        "destination_id":"1",
+        "name":"Bergen",
+        "description": "Recorrido a pie por Bergen + Crucero de Bergen a Flam para parejas.",
+        "quotas":"2",
+        "price":500
+    },
+    {
+        "destination":"Finlandia",
+        "destination_id":"3",
+        "name":"Paquete Familiar",
+        "description": "Estadía en el hotel artic snow + forest lake aurora borealis + persecución  Aurora boreal en moto de nieve + excursión pueblo santa claus",
+        "quotas":"5",
+        "price":3800000
+    },
+    {
+        "destination":"Islas Feroe",
+        "destination_id":"2",
+        "name":"Senderismo por Islas Feroe",
+        "description": "Senderismo por Trælanýpan + senderimos faro Kallurin.",
+        "quotas":"2",
+        "price":700
+    },
+    {
+        "destination":"Full experience",
+        "destination_id":"todos",
+        "name":"Recorrido en los tres destinos SleipnAr",
+        "description": "Helsinki Pass:Recorrido por Helsinki con actividades incluídas+Aurora boreal en moto, Oslo Pass:recorrido guiado por Oslo + Aurora Boreal guiada+Caminata por Kjerag y Caminata por Tórshvn-Vestmanna.",
+        "quotas":"2",
+        "price":4200000
+    }
+]

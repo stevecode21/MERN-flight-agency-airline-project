@@ -1,0 +1,77 @@
+{
+    "_id":"1",
+    "name":"Noruega",
+    "millas":"5764",
+    "kilometers":"9276",
+    "duration":"9 horas 50 minutos",
+    "airport":"Aeropuerto de Oslo-Gardermoen",
+    "timeDiferent":"+7 horas",
+    "turistPlans":[
+        {
+            "name":"Pase ahurora",
+            "duration":"7 dias",
+            "price":"864225",
+            "quotas":"2"
+        },
+        {
+            "name":" Caminata guiada a Kjerag y Kjeragbolten",
+            "duration":null,
+            "price":"412949",
+            "quotas":"1",
+            "description":null
+        },
+        {
+            "name":" Caminata guiada al púlpito de roca Preikestolen",
+            "duration":null,
+            "price":"37574",
+            "quotas":"1",
+            "description":null
+        },
+        {
+            "name":"Oslo Pass ",
+            "duration":null,
+            "price":"167209",
+            "quotas":"1",
+            "description":null
+        },
+        {
+            "name":"RECORRIDO POR LOS FIORDOS DESDE TROMSØ +",
+            "duration":null,
+            "price":"1500000",
+            "quotas":"4",
+            "description":"cultura sami incluyendo almuerzo en Tromso"
+        },
+        {
+            "name":"Entrada al Museo de barcos vikingos y al Museo histórico",
+            "duration":null,
+            "price":"37575",
+            "quotas":"1",
+            "description":null
+        },
+        {
+            "name":"City Walking Tour - Bergen a pie",
+            "duration":null,
+            "price":"105210",
+            "quotas":"2",
+            "description":null
+        },
+        {
+            "name":"Crucero de Bergen a Flam: el rey de los fiordos ",
+            "duration":null,
+            "price":"781728",
+            "quotas":"4",
+            "description":null
+        }
+    ],
+    "flightPrice":[
+        {"class":"primera","price":"34467844"},
+        {"class":"ejecutico","price":"10323685"},
+        {"class":"económico","price":"8274150"},
+        {"class":"turista","price":"4838083"}
+    ],
+    "hotelPrice":[
+        {"type":"gold","price":" "},
+        {"type":"silver","price":" "},
+        {"type":"bronze","price":" "}
+    ]
+}

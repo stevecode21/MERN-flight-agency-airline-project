@@ -1,0 +1,13 @@
+{
+    "_id": "1",
+    "origin":"Bogotá",
+    "destination":"Noruega",
+    "mes":"dic",
+    "week":"1",
+    "origen":"Bogotá",
+    
+    "setsChairs": [
+        true,
+        false
+    ]
+}
